@@ -1,0 +1,17 @@
+# Carpetas que no deben versionarse
+fotos/
+output/
+__pycache__/
+build/
+dist/
+assets/
+
+# Archivos temporales
+*.pyc
+*.log
+
+# Ejecutables
+*.exe
+
+# Configuraciones locales
+config.ini
